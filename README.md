@@ -1,4 +1,4 @@
-# Hi, I'm Denis! 👋🏽
+# Hi, I'm Denis! 👋
 
 <p>I graduated with a degree in Computer Science from UFV (Federal University of Viçosa) and am passionate about leveraging technology to solve complex problems. Throughout my career, I've had a myriad of experiences that have honed my skills and shaped my professional journey. From working as a Full stack developer to a back end developer, my current interest lies deeply rooted in the realm of data engineering.</p>
 <p>I've collaborated with diverse teams, ranging from junior companies to startups that have successfully secured millions in Series A funding, and large organizations with over a thousand employees. As a data engineer, I excel in managing and analyzing vast data sets. My proficiency in programming, data analysis, and database management equips me to distill valuable insights from raw data, converting them into actionable intelligence for strategic decision-making.</p>
